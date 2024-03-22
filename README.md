@@ -1,3 +1,3 @@
 # adam-optimizer
 
-we move, and we learn something new.
+we move, and we learn from it.
