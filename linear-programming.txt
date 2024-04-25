@@ -1,3 +1,3 @@
-Tugas anda, coba formulasikan persoalan linear programming berikut ini dengan methode adam 
+Tugas anda, coba formulasikan persoalan linear programming berikut
 
 Jika anda seorang petani dengan lahan kosong 75 hektar dan memiliki dana $15000, berencana menanam singkong dan jagung. Untuk itu anda memerlukan benih, pupuk, dll sehingga biaya per hektar yang diperlukan untuk menanam singkong adalah $120 per hektar dan biaya menanam jagung adalah $210 per hektar. Setelah panen, anda mesti menyimpan hasil panen sampai harga jual menguntungkan. Gudang anda mampu menyimpan 4000 karung. Produktifitas lahan adalah setiap hektar singkong menghasilkan 110 karung dan setiap hektar jagung menghasilkan 30 karung. Jika laba bersih per karung singkong adalah $1,30 dan per karung jagung adalah $2,00. Bagaimana anda menanam 75 hektar lahan untuk memaksimalkan keuntungan?
