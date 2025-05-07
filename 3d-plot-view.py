@@ -9,7 +9,7 @@ def obj(x, y):
 
 
 # grid values
-xAxis = np.arange(-12.5, 7.5, 0.01)
+xAxis = np.arange(-12.5, 7.5, 0.1)
 yAxis = np.arange(-13, 7, 0.1)
 x, y = np.meshgrid(xAxis, yAxis)
 z = obj(x, y)
