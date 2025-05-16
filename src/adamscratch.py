@@ -43,8 +43,8 @@ def adam(obj, der):
 best, scores, trajectory, bounds = adam(obj, der)
 
 # plotting
-x = np.linspace(bounds[0, 0], bounds[0, 1], 5000)
-y = np.linspace(bounds[1, 0], bounds[1, 1], 5000)
+x = np.arange(bounds[0, 0], bounds[0, 1], 0.01)
+y = np.arange(bounds[1, 0], bounds[1, 1], 0.01)
 X, Y = np.meshgrid(x, y)
 Z = obj(X, Y)
 
