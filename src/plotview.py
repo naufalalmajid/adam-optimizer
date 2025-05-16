@@ -14,8 +14,8 @@ def der(x, y):
 
 if __name__ == "__main__":
     # grid values
-    xAxis = np.arange(-12.5, 7.5, 0.1)
-    yAxis = np.arange(-13, 7, 0.1)
+    xAxis = np.arange(-12.5, 7.5, 0.01)
+    yAxis = np.arange(-13, 7, 0.01)
     x, y = np.meshgrid(xAxis, yAxis)
     z = obj(x, y)
 
