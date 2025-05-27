@@ -11,7 +11,7 @@ def adam(obj, der):
     beta1 = 0.9
     beta2 = 0.999
     eps = 1e-8
-    bounds = np.array([[-12.0, 7.5], [-13, 7.0]])
+    bounds = np.array([[-12.5, 7.5], [-13, 7.0]])
 
     # initial point
     x = np.array([-12.5, -13])
