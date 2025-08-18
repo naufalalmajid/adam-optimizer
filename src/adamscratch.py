@@ -64,8 +64,9 @@ ax.plot(
     color="green",
     label="Trajectory",
 )
-ax.set_xlabel("X")
-ax.set_ylabel("Y")
-ax.set_zlabel("Objective")
+ax.set_title("3D Surface Plot of the Objective Function")
+ax.set_xlabel("X-axis")
+ax.set_ylabel("Y-axis")
+ax.set_zlabel("Z-axis (Function Value)")
 ax.legend()
 plt.show()
