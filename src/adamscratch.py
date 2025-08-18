@@ -14,7 +14,7 @@ def adam(obj, der):
     bounds = np.array([[-12.5, 7.5], [-13, 7.0]])
 
     # initial point
-    x = np.array([-12.5, -13])
+    x = np.array([-12.5, 7.0])
     scores = []
     trajectory = []
 
