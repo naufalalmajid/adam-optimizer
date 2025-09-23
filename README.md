@@ -7,4 +7,4 @@ any update with adam optimizer will be published at my blog [almajid.dev](https:
 - [x] [Write Adam in Python from scratch to solve a simple case](https://www.almajid.dev/2025/09/trying-adam-optimizer-from-scratch.html)*
 - [ ] Write Adam in Python to solve a simple economic dispacth in power system
 
-* will make better version asap
+*will make better version asap
