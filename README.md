@@ -8,4 +8,5 @@ any update with adam optimizer will be published at my blog [almajid.dev](https:
 - [ ] Economic Dispatch Optimization in Power Systems with Adam **
 
 *will make better version asap
+
 **will published in 2 weeks
